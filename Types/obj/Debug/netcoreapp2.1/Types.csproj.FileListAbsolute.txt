@@ -1,0 +1,11 @@
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\bin\Debug\netcoreapp2.1\Types.deps.json
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\bin\Debug\netcoreapp2.1\Types.runtimeconfig.json
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\bin\Debug\netcoreapp2.1\Types.runtimeconfig.dev.json
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\bin\Debug\netcoreapp2.1\Types.dll
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\bin\Debug\netcoreapp2.1\Types.pdb
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\obj\Debug\netcoreapp2.1\Types.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\obj\Debug\netcoreapp2.1\Types.AssemblyInfoInputs.cache
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\obj\Debug\netcoreapp2.1\Types.AssemblyInfo.cs
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\obj\Debug\netcoreapp2.1\Types.dll
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\obj\Debug\netcoreapp2.1\Types.pdb
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\Types\obj\Debug\netcoreapp2.1\Types.csprojAssemblyReference.cache

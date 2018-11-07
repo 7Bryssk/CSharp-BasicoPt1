@@ -1,0 +1,10 @@
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.exe.config
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.exe
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\bin\Debug\OperadoresAritimeticos.pdb
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.csprojAssemblyReference.cache
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.form.resources
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.Properties.Resources.resources
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.csproj.GenerateResource.cache
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.exe
+C:\Users\Patty\Desktop\Treinamento\1Projeto\Projeto01\OperadoresAritimeticos\obj\Debug\OperadoresAritimeticos.pdb
